@@ -12,7 +12,7 @@ enableEmoji = true
 [params] # theme parameters
     author = "Christoph Völtzke"
     description = "Christoph Völtzkes personal website"
-    info = "[Almost graduated Statistican]"
+    info = "Graduate student - Utrecht University - Methodology & Statistcs"
     avatarURL = "images/Profile_picture.png"
     
     colorScheme = "auto"

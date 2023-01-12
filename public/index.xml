@@ -5,33 +5,24 @@
     <link>https://christophvoe.github.io/</link>
     <description>Recent content on Christoph Völtzke</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Tue, 10 Jan 2023 15:45:15 +0100</lastBuildDate><atom:link href="https://christophvoe.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://christophvoe.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>pro_inf</title>
-      <link>https://christophvoe.github.io/projects/pro_inf/</link>
+      <title>Project overview</title>
+      <link>https://christophvoe.github.io/projects/</link>
       <pubDate>Tue, 10 Jan 2023 15:45:15 +0100</pubDate>
       
-      <guid>https://christophvoe.github.io/projects/pro_inf/</guid>
-      <description>This will be the guide through my projects that will all be powered by own Github pages</description>
-    </item>
-    
-    <item>
-      <title>cv_inf</title>
-      <link>https://christophvoe.github.io/cv/cv_inf/</link>
-      <pubDate>Tue, 10 Jan 2023 15:44:49 +0100</pubDate>
-      
-      <guid>https://christophvoe.github.io/cv/cv_inf/</guid>
-      <description>Here you will see my CV as soon as I figure out how to deploy it on git.</description>
+      <guid>https://christophvoe.github.io/projects/</guid>
+      <description>On this page all of my current and past projects are displayed. All of these projects are features with an individual GitHub page. Feel free to have a look at them and tell me your opinion about it.
+Current project(s)Link to headingSpectator attendance: Impact of crowd absence in the COVID-19 pandemic Diabetes: Prediction of Blood glucose variability ProjectsLink to headingClassification of edible and poisonous mushrooms Anthropomorphism in Chatbots Bayesian analyses: Valuation of defensive and offensive statistics in the NBA </description>
     </item>
     
     <item>
       <title>About me</title>
-      <link>https://christophvoe.github.io/about/info_chris/</link>
+      <link>https://christophvoe.github.io/about/</link>
       <pubDate>Tue, 10 Jan 2023 15:35:45 +0100</pubDate>
       
-      <guid>https://christophvoe.github.io/about/info_chris/</guid>
-      <description>I am a upcoming statistician with a special interest in human behavior, sports-related and biomedical research.</description>
+      <guid>https://christophvoe.github.io/about/</guid>
+      <description>I am a graduate student in *Methodology and Statistics for the behavioural, biomedical and social sciences* at Utrecht University (Utrecht, Netherlands). My interest in the field of statisitcs and data science devolped, during my BoS in *Psychology* at Leuphana University (L�neburg, Germany). Since then, my main interest has been in practical applications of statistics with special interest in human behavior, sports-related and biomedical research. My goal is to provide applicable statistical research to a broad audience.</description>
     </item>
     
   </channel>
