@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://christophvoe.github.io/'
 title = 'Christoph Völtzke'
 theme = 'hugo-coder'
 languageCode = "en"
@@ -13,6 +13,17 @@ enableEmoji = true
     author = "Christoph Völtzke"
     description = "Christoph Völtzkes personal website"
     info = "[Almost graduated Statistican]"
+    avatarURL = "images/Profile_picture.png"
+    
+    colorScheme = "auto"
+    # Hide the toggle button, along with the associated vertical divider
+    hideColorSchemeToggle = false
+    
+    favicon_16 = "/images/prof_ico_16x16.ico"
+    favicon_32 = "/images/pfor_ico_32x32.ico"
+    
+[markup.goldmark.renderer]
+    unsafe= true
     
 # Social links
 [[params.social]]
@@ -39,4 +50,4 @@ enableEmoji = true
 [[menu.main]]
     name = "CV"
     weight = 3
-    url = "/cv/"
+    url = "/docs/cv.pdf"

@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Abouts on Christoph Völtzke</title>
-    <link>http://example.org/about/</link>
+    <link>https://christophvoe.github.io/about/</link>
     <description>Recent content in Abouts on Christoph Völtzke</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 10 Jan 2023 15:35:45 +0100</lastBuildDate><atom:link href="http://example.org/about/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 10 Jan 2023 15:35:45 +0100</lastBuildDate><atom:link href="https://christophvoe.github.io/about/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>info_chris</title>
-      <link>http://example.org/about/info_chris/</link>
+      <title>About me</title>
+      <link>https://christophvoe.github.io/about/info_chris/</link>
       <pubDate>Tue, 10 Jan 2023 15:35:45 +0100</pubDate>
       
-      <guid>http://example.org/about/info_chris/</guid>
-      <description>Here is some information about me</description>
+      <guid>https://christophvoe.github.io/about/info_chris/</guid>
+      <description>I am a upcoming statistician with a special interest in human behavior, sports-related and biomedical research.</description>
     </item>
     
   </channel>
