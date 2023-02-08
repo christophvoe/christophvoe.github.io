@@ -51,3 +51,7 @@ enableEmoji = true
     name = "CV"
     weight = 3
     url = "/docs/cv.pdf"
+[[menu.main]]
+    name = "Consultation"
+    weight = 4
+    url  = "/consult/"
