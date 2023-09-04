@@ -12,7 +12,7 @@ enableEmoji = true
 [params] # theme parameters
     author = "Christoph Völtzke"
     description = "Christoph Völtzkes personal website"
-    info = "Graduate student - Utrecht University - Methodology & Statistics"
+    info = "Graduate student - Data Scientist - Methodology & Statistics"
     avatarURL = "images/Profile_picture.png"
     
     colorScheme = "auto"
@@ -50,7 +50,7 @@ enableEmoji = true
 [[menu.main]]
     name = "CV"
     weight = 3
-    url = "/docs/cv.pdf"
+    url = "/docs/Resume_CV.pdf"
 [[menu.main]]
     name = "Consultation"
     weight = 4
