@@ -50,7 +50,7 @@ enableEmoji = true
 [[menu.main]]
     name = "CV"
     weight = 3
-    url = "/docs/cv_new.pdf"
+    url = "/docs/cv_sep.pdf"
 [[menu.main]]
     name = "Consultation"
     weight = 4
