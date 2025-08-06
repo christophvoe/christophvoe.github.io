@@ -8,8 +8,6 @@ pygmentsCodeFences = true
 pygmentsCodeFencesGuessSyntax = true
 enableEmoji = true
 
-[pagination]
-  pagerSize = 10
 
 [params] # theme parameters
     author = "Christoph Völtzke"
