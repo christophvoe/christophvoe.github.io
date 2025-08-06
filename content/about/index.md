@@ -8,7 +8,7 @@ date: 2023-01-10T15:35:45+01:00
 </div>
 
 <div style="float: right; width: 48%;">
-<p align="justify"> Hii, I am Christoph!
+<p align="justify"> Hi, I am Christoph!
 I am a Data Science Consultant at Capgemini Invent, with a background in Methodology and Statistics for the Behavioural, Biomedical, and Social Sciences from Utrecht University. My academic foundation was built during my B.Sc. in Psychology at Leuphana University, where my passion for data-driven problem solving first emerged.
 <br>
 Today, my focus lies in developing scalable, real-world applications of data science and Generative AI — especially in enterprise environments. I specialize in cloud-based AI systems (AWS, Azure), Agentic AI (e.g. LangGraph, CrewAI), Retrieval-Augmented Generation, and full-stack solutions from Backend development (e.g. Fast API), Frontend development (Streamlit, ReAct) to deployment (Docker). At Capgemini, I lead cross-functional teams and drive the technical implementation of innovative GenAI applications from ideation to deployment.
