@@ -3,16 +3,18 @@ title = 'Christoph Völtzke'
 theme = 'hugo-coder'
 languageCode = "en"
 defaultContentLanguage = "en"
-paginate = 20
 pygmentsStyle = "bw"
 pygmentsCodeFences = true
 pygmentsCodeFencesGuessSyntax = true
 enableEmoji = true
 
+[pagination]
+  pagerSize = 10
+  
 [params] # theme parameters
     author = "Christoph Völtzke"
     description = "Christoph Völtzkes personal website"
-    info = "Graduate student - Data Scientist - Methodology & Statistics"
+    info = "Data Science Consultant @ Capgemini Invent - Statistics Graduate Student @ Utrecht University"
     avatarURL = "images/Profile_picture.png"
     
     colorScheme = "auto"
