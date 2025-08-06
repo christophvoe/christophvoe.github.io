@@ -3,11 +3,13 @@ title = 'Christoph Völtzke'
 theme = 'hugo-coder'
 languageCode = "en"
 defaultContentLanguage = "en"
-paginate = 20
 pygmentsStyle = "bw"
 pygmentsCodeFences = true
 pygmentsCodeFencesGuessSyntax = true
 enableEmoji = true
+
+[pagination]
+  pagerSize = 10
 
 [params] # theme parameters
     author = "Christoph Völtzke"
