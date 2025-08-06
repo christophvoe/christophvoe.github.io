@@ -9,12 +9,18 @@ date: 2023-01-10T15:35:45+01:00
 
 <div style="float: right; width: 48%;">
 <p align="justify"> Hii, I am Christoph!
-I recently graduated in Methodology and Statistics for the behavioural, biomedical and social sciences at <a href="https://www.uu.nl/en">Utrecht University</a> (Utrecht, Netherlands). My interest in the field of statistics and data science developed, during my B.S. in Psychology at <a href="https://www.leuphana.de/">Leuphana University</a> (Lüneburg, Germany). Since then, my main interest has been in practical applications of statistics with a special interest in human behavior, sports sciences, and biomedical research. My goal is to provide applicable statistical research to a broad audience. This includes communicating and visualizing complex findings in a simple and concise manner.
+I am a Data Science Consultant at Capgemini Invent, with a background in Methodology and Statistics for the Behavioural, Biomedical, and Social Sciences from Utrecht University. My academic foundation was built during my B.Sc. in Psychology at Leuphana University, where my passion for data-driven problem solving first emerged.
 <br>
 <br>
-I have previous experience in various areas of research and also in several companies. This includes consulting, market research, and various research institutes. I am also a passionate handball coach and player. For more information about my past positions check out my CV.
+Today, my focus lies in developing scalable, real-world applications of data science and Generative AI — especially in enterprise environments. I specialize in cloud-based AI systems (AWS, Azure), agentic GenAI (LangGraph, CrewAI), Retrieval-Augmented Generation (RAG), and full-stack solutions using Python (FastAPI), Streamlit, and React. At Capgemini, I lead cross-functional teams and drive the technical implementation of innovative GenAI applications from ideation to deployment.
 <br>
 <br>
-I am currently traveling across Europe, but looking for a new challenge starting November 2023.
+Beyond technical delivery, I’m deeply committed to making complex insights accessible — through clear communication, intuitive dashboards, and engaging visualizations.
+<br>
+<br>
+Previously, I gained experience in consulting, market research, and academic research, and remain passionate about interdisciplinary collaboration. Outside of work, I’m an enthusiastic handball coach and player.
+<br>
+<br>
+Let me know if you'd like a more concise, more casual, or even a bullet-point version — depending on where you want to use it (CV, LinkedIn, website, etc.).
 </p>
 </div>
