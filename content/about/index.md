@@ -16,7 +16,5 @@ Today, my focus lies in developing scalable, real-world applications of data sci
 Beyond technical delivery, I’m deeply committed to making complex insights accessible — through clear communication, intuitive dashboards, and engaging visualizations.
 <br>
 Previously, I gained experience in managment consulting, market research, and academic research, and remain passionate about interdisciplinary collaboration. Outside of work, I’m an enthusiastic handball coach and player.
-<br>
-Let me know if you'd like a more concise, more casual, or even a bullet-point version — depending on where you want to use it (CV, LinkedIn, website, etc.).
 </p>
 </div>
