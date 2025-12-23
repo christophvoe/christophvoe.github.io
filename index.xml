@@ -1,46 +1,44 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Christoph Völtzke</title><link>https://christophvoe.github.io/</link><description>Recent content on Christoph Völtzke</description><generator>Hugo</generator><language>en</language><lastBuildDate>Tue, 10 Jan 2023 15:45:15 +0100</lastBuildDate><atom:link href="https://christophvoe.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Project overview</title><link>https://christophvoe.github.io/projects/</link><pubDate>Tue, 10 Jan 2023 15:45:15 +0100</pubDate><guid>https://christophvoe.github.io/projects/</guid><description>&lt;p>On this page all of my current and past projects are displayed. All of these projects have an individual GitHub repository. Feel free to have a look at them and tell me your opinion about it.&lt;/p>
-&lt;hr>
-&lt;p>All repositories of the projects contain a README file that explains the purpose of the project and helps understanding the structuring of the files.&lt;/p>
-&lt;hr>
-&lt;h3 id="projects">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Christoph Völtzke</title><link>https://christophvoe.github.io/</link><description>Recent content on Christoph Völtzke</description><generator>Hugo</generator><language>en</language><lastBuildDate>Tue, 10 Jan 2023 15:45:15 +0100</lastBuildDate><atom:link href="https://christophvoe.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Project overview</title><link>https://christophvoe.github.io/projects/</link><pubDate>Tue, 10 Jan 2023 15:45:15 +0100</pubDate><guid>https://christophvoe.github.io/projects/</guid><description>&lt;p&gt;On this page all of my current and past projects are displayed. All of these projects have an individual GitHub repository. Feel free to have a look at them and tell me your opinion about it.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;All repositories of the projects contain a README file that explains the purpose of the project and helps understanding the structuring of the files.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id="projects"&gt;
  Projects
- &lt;a class="heading-link" href="#projects">
- &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
- &lt;span class="sr-only">Link to heading&lt;/span>
- &lt;/a>
-&lt;/h3>
-&lt;ul>
-&lt;li>
-&lt;p>Replication study: &lt;a href="https://github.com/christophvoe/Influence-of-Spectators-on-the-Home-advantage-in-professional-european-football" class="external-link" target="_blank" rel="noopener">&amp;ldquo;Influence of Spectators on the Home advantage in professional European-football&amp;rdquo;&lt;/a>&lt;/p></description></item><item><title>About me</title><link>https://christophvoe.github.io/about/</link><pubDate>Tue, 10 Jan 2023 15:35:45 +0100</pubDate><guid>https://christophvoe.github.io/about/</guid><description>&lt;div style="float: left; width: 52%;">
-&lt;img src = "/images/vacation_prof.png" width = 85% />
-&lt;/div>
-&lt;div style="float: right; width: 48%;">
-&lt;p align="justify"> Hi, I am Christoph!
+ &lt;a class="heading-link" href="#projects"&gt;
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"&gt;&lt;/i&gt;
+ &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
+ &lt;/a&gt;
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Replication study: &lt;a href="https://github.com/christophvoe/Influence-of-Spectators-on-the-Home-advantage-in-professional-european-football" class="external-link" target="_blank" rel="noopener"&gt;&amp;ldquo;Influence of Spectators on the Home advantage in professional European-football&amp;rdquo;&lt;/a&gt;&lt;/p&gt;</description></item><item><title>About me</title><link>https://christophvoe.github.io/about/</link><pubDate>Tue, 10 Jan 2023 15:35:45 +0100</pubDate><guid>https://christophvoe.github.io/about/</guid><description>&lt;div style="float: left; width: 52%;"&gt;
+&lt;img src = "/images/vacation_prof.png" width = 85% /&gt;
+&lt;/div&gt;
+&lt;div style="float: right; width: 48%;"&gt;
+&lt;p align="justify"&gt; Hi, I am Christoph!
 I am a Data Science Consultant at Capgemini Invent, with a background in Methodology and Statistics for the Behavioural, Biomedical, and Social Sciences from Utrecht University. My academic foundation was built during my B.Sc. in Psychology at Leuphana University, where my passion for data-driven problem solving first emerged.
-&lt;br>
+&lt;br&gt;
 Today, my focus lies in developing scalable, real-world applications of data science and Generative AI — especially in enterprise environments. I specialize in cloud-based AI systems (AWS, Azure), Agentic AI (e.g. LangGraph, CrewAI), Retrieval-Augmented Generation, and full-stack solutions from Backend development (e.g. Fast API), Frontend development (Streamlit, ReAct) to deployment (Docker). At Capgemini, I lead cross-functional teams and drive the technical implementation of innovative GenAI applications from ideation to deployment.
-&lt;br>
+&lt;br&gt;
 Beyond technical delivery, I’m deeply committed to making complex insights accessible — through clear communication, intuitive dashboards, and engaging visualizations.
-&lt;br>
+&lt;br&gt;
 Previously, I gained experience in managment consulting, market research, and academic research, and remain passionate about interdisciplinary collaboration. Outside of work, I’m an enthusiastic handball coach and player.
-&lt;br>
-Let me know if you'd like a more concise, more casual, or even a bullet-point version — depending on where you want to use it (CV, LinkedIn, website, etc.).
-&lt;/p></description></item><item><title>Consultation</title><link>https://christophvoe.github.io/consult/</link><pubDate>Tue, 10 Jan 2023 15:35:45 +0100</pubDate><guid>https://christophvoe.github.io/consult/</guid><description>&lt;h3 id="collaborations">
+&lt;/p&gt;</description></item><item><title>Consultation</title><link>https://christophvoe.github.io/consult/</link><pubDate>Tue, 10 Jan 2023 15:35:45 +0100</pubDate><guid>https://christophvoe.github.io/consult/</guid><description>&lt;h3 id="collaborations"&gt;
  Collaborations
- &lt;a class="heading-link" href="#collaborations">
- &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
- &lt;span class="sr-only">Link to heading&lt;/span>
- &lt;/a>
-&lt;/h3>
-&lt;p>I am open for collaboration with other data-scientists and statisticians.
-If you feel like I can support/assist you in an interesting project just &lt;a href="mailto:voeltzke.christoph@gmail.com" >drop me a line&lt;/a>!&lt;/p>
-&lt;hr>
-&lt;h3 id="supervision">
+ &lt;a class="heading-link" href="#collaborations"&gt;
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"&gt;&lt;/i&gt;
+ &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
+ &lt;/a&gt;
+&lt;/h3&gt;
+&lt;p&gt;I am open for collaboration with other data-scientists and statisticians.
+If you feel like I can support/assist you in an interesting project just &lt;a href="mailto:voeltzke.christoph@gmail.com" &gt;drop me a line&lt;/a&gt;!&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id="supervision"&gt;
  Supervision
- &lt;a class="heading-link" href="#supervision">
- &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
- &lt;span class="sr-only">Link to heading&lt;/span>
- &lt;/a>
-&lt;/h3>
-&lt;p>I also have some experience in supporting students in their statistical analyses part of their thesis in the fields of Economics, Psychology and Business Administration. This includes building statistical models, processing and analyzing data and providing experimental designs.
-If you also need some help, feel free to contact me at any time and we can &lt;a href="mailto:voeltzke.christoph@gmail.com" >plan a meeting together&lt;/a>!&lt;/p></description></item></channel></rss>
+ &lt;a class="heading-link" href="#supervision"&gt;
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"&gt;&lt;/i&gt;
+ &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
+ &lt;/a&gt;
+&lt;/h3&gt;
+&lt;p&gt;I also have some experience in supporting students in their statistical analyses part of their thesis in the fields of Economics, Psychology and Business Administration. This includes building statistical models, processing and analyzing data and providing experimental designs.
+If you also need some help, feel free to contact me at any time and we can &lt;a href="mailto:voeltzke.christoph@gmail.com" &gt;plan a meeting together&lt;/a&gt;!&lt;/p&gt;</description></item></channel></rss>
